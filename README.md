@@ -1,2 +1,2 @@
 # restaurant-sales-forecasting
- Capstone project 
+This  is my Capstone project and final project I completed at Fullstack Academy. The goal was to develop a comprehensive sales forecasting pipeline for a restaurant chain, utilizing machine learning, time series analysis, and deep learning algorithms. The project included data preparation, exploratory data analysis, and the creation of forecasting models for potential restaurant sales.
